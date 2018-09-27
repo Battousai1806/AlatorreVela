@@ -1,0 +1,2 @@
+# AlatorreVela
+Métodos numéricos.
