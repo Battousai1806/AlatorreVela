@@ -5,10 +5,8 @@ r = mod(n,2);
 
 if(r==0)
     
-    x = n^2;
-    x;
+    prompt= 'el numero es par';
 else
-    x = n^3;
-    x;
+    prompt= 'el numero es impar';
     
 end
